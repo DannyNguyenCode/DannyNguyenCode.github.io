@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.6d8e1ccc.chunk.css",
-    "main.js": "/static/js/main.e0c49f80.chunk.js",
-    "main.js.map": "/static/js/main.e0c49f80.chunk.js.map",
+    "main.js": "/static/js/main.62520486.chunk.js",
+    "main.js.map": "/static/js/main.62520486.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3bbf3189.js",
     "runtime-main.js.map": "/static/js/runtime-main.3bbf3189.js.map",
     "static/js/2.965e5f0a.chunk.js": "/static/js/2.965e5f0a.chunk.js",
     "static/js/2.965e5f0a.chunk.js.map": "/static/js/2.965e5f0a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c51906ec4e7ece2c367497c65b7e7834.js": "/precache-manifest.c51906ec4e7ece2c367497c65b7e7834.js",
+    "precache-manifest.5df3822592a3c5d82045e6bec805596d.js": "/precache-manifest.5df3822592a3c5d82045e6bec805596d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6d8e1ccc.chunk.css.map": "/static/css/main.6d8e1ccc.chunk.css.map",
     "static/js/2.965e5f0a.chunk.js.LICENSE.txt": "/static/js/2.965e5f0a.chunk.js.LICENSE.txt",
     "static/media/DESKTOP_MOCK.jpg": "/static/media/DESKTOP_MOCK.4493a674.jpg",
     "static/media/LATOP_MOCK.jpg": "/static/media/LATOP_MOCK.46a11fe3.jpg",
     "static/media/PHONE_MOCK.jpg": "/static/media/PHONE_MOCK.912726e0.jpg",
-    "static/media/Seneca_2.jpg": "/static/media/Seneca_2.3d88db0d.jpg",
+    "static/media/SenecaBanner.png": "/static/media/SenecaBanner.e98c64a8.png",
     "static/media/TABLET_MOCK.jpg": "/static/media/TABLET_MOCK.bbbfa20d.jpg",
-    "static/media/Tims_1.jpg": "/static/media/Tims_1.7e1973b1.jpg",
+    "static/media/TimHortonsBanner.png": "/static/media/TimHortonsBanner.f721c63d.png",
     "static/media/code_1.jpg": "/static/media/code_1.8e4c84e2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3bbf3189.js",
     "static/js/2.965e5f0a.chunk.js",
     "static/css/main.6d8e1ccc.chunk.css",
-    "static/js/main.e0c49f80.chunk.js"
+    "static/js/main.62520486.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b29e1ceff030e71b5c3f0cd2a385379f",
+    "revision": "d6c3ef1b8382f6f43351c669b9be595d",
     "url": "/index.html"
   },
   {
-    "revision": "417943c68f44cd5cd278",
+    "revision": "3940698344893e3184fd",
     "url": "/static/css/main.6d8e1ccc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.965e5f0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "417943c68f44cd5cd278",
-    "url": "/static/js/main.e0c49f80.chunk.js"
+    "revision": "3940698344893e3184fd",
+    "url": "/static/js/main.62520486.chunk.js"
   },
   {
     "revision": "73a4f215652a07459b34",
@@ -36,16 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/PHONE_MOCK.912726e0.jpg"
   },
   {
-    "revision": "3d88db0da825ebab6df980bebc09df25",
-    "url": "/static/media/Seneca_2.3d88db0d.jpg"
+    "revision": "e98c64a8a077375eedb8c25a5f482af2",
+    "url": "/static/media/SenecaBanner.e98c64a8.png"
   },
   {
     "revision": "bbbfa20dde9658ec0cf4e995fad5a16a",
     "url": "/static/media/TABLET_MOCK.bbbfa20d.jpg"
   },
   {
-    "revision": "7e1973b1b20086a7f37213df1fb73d90",
-    "url": "/static/media/Tims_1.7e1973b1.jpg"
+    "revision": "f721c63df008b2cb435dcf4acf424de5",
+    "url": "/static/media/TimHortonsBanner.f721c63d.png"
   },
   {
     "revision": "8e4c84e2247d2f49a1d9ef618a16398e",
